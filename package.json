@@ -1,0 +1,17 @@
+{
+  "name": "android-manifest",
+  "version": "1.0.0",
+  "description": "",
+  "cordova": {
+    "id": "android-manifest",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "",
+  "license": "MIT"
+}
